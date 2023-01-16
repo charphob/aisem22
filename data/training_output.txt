@@ -1,0 +1,121 @@
+Epoch: 001/010 | Batch 000/469 | Cost: 2.6800
+Epoch: 001/010 | Batch 050/469 | Cost: 0.2569
+Epoch: 001/010 | Batch 100/469 | Cost: 0.3645
+Epoch: 001/010 | Batch 150/469 | Cost: 0.2629
+Epoch: 001/010 | Batch 200/469 | Cost: 0.4220
+Epoch: 001/010 | Batch 250/469 | Cost: 0.3124
+Epoch: 001/010 | Batch 300/469 | Cost: 0.4007
+Epoch: 001/010 | Batch 350/469 | Cost: 0.2484
+Epoch: 001/010 | Batch 400/469 | Cost: 0.2550
+Epoch: 001/010 | Batch 450/469 | Cost: 0.3710
+Epoch: 001/010 training accuracy: 89.69%
+Time elapsed: 0.68 min
+Epoch: 002/010 | Batch 000/469 | Cost: 0.3244
+Epoch: 002/010 | Batch 050/469 | Cost: 0.2188
+Epoch: 002/010 | Batch 100/469 | Cost: 0.3169
+Epoch: 002/010 | Batch 150/469 | Cost: 0.2068
+Epoch: 002/010 | Batch 200/469 | Cost: 0.3223
+Epoch: 002/010 | Batch 250/469 | Cost: 0.2055
+Epoch: 002/010 | Batch 300/469 | Cost: 0.2773
+Epoch: 002/010 | Batch 350/469 | Cost: 0.3981
+Epoch: 002/010 | Batch 400/469 | Cost: 0.2849
+Epoch: 002/010 | Batch 450/469 | Cost: 0.2906
+Epoch: 002/010 training accuracy: 91.20%
+Time elapsed: 1.26 min
+Epoch: 003/010 | Batch 000/469 | Cost: 0.2098
+Epoch: 003/010 | Batch 050/469 | Cost: 0.4753
+Epoch: 003/010 | Batch 100/469 | Cost: 0.1969
+Epoch: 003/010 | Batch 150/469 | Cost: 0.2565
+Epoch: 003/010 | Batch 200/469 | Cost: 0.2805
+Epoch: 003/010 | Batch 250/469 | Cost: 0.2780
+Epoch: 003/010 | Batch 300/469 | Cost: 0.3073
+Epoch: 003/010 | Batch 350/469 | Cost: 0.3349
+Epoch: 003/010 | Batch 400/469 | Cost: 0.3347
+Epoch: 003/010 | Batch 450/469 | Cost: 0.3146
+Epoch: 003/010 training accuracy: 92.47%
+Time elapsed: 1.87 min
+Epoch: 004/010 | Batch 000/469 | Cost: 0.2769
+Epoch: 004/010 | Batch 050/469 | Cost: 0.1178
+Epoch: 004/010 | Batch 100/469 | Cost: 0.3698
+Epoch: 004/010 | Batch 150/469 | Cost: 0.3304
+Epoch: 004/010 | Batch 200/469 | Cost: 0.3515
+Epoch: 004/010 | Batch 250/469 | Cost: 0.2954
+Epoch: 004/010 | Batch 300/469 | Cost: 0.4636
+Epoch: 004/010 | Batch 350/469 | Cost: 0.2033
+Epoch: 004/010 | Batch 400/469 | Cost: 0.2519
+Epoch: 004/010 | Batch 450/469 | Cost: 0.2436
+Epoch: 004/010 training accuracy: 92.87%
+Time elapsed: 2.43 min
+Epoch: 005/010 | Batch 000/469 | Cost: 0.3518
+Epoch: 005/010 | Batch 050/469 | Cost: 0.2480
+Epoch: 005/010 | Batch 100/469 | Cost: 0.0787
+Epoch: 005/010 | Batch 150/469 | Cost: 0.2119
+Epoch: 005/010 | Batch 200/469 | Cost: 0.1376
+Epoch: 005/010 | Batch 250/469 | Cost: 0.2873
+Epoch: 005/010 | Batch 300/469 | Cost: 0.2855
+Epoch: 005/010 | Batch 350/469 | Cost: 0.2747
+Epoch: 005/010 | Batch 400/469 | Cost: 0.1686
+Epoch: 005/010 | Batch 450/469 | Cost: 0.3562
+Epoch: 005/010 training accuracy: 93.33%
+Time elapsed: 3.03 min
+Epoch: 006/010 | Batch 000/469 | Cost: 0.2461
+Epoch: 006/010 | Batch 050/469 | Cost: 0.1407
+Epoch: 006/010 | Batch 100/469 | Cost: 0.1617
+Epoch: 006/010 | Batch 150/469 | Cost: 0.1058
+Epoch: 006/010 | Batch 200/469 | Cost: 0.3133
+Epoch: 006/010 | Batch 250/469 | Cost: 0.2371
+Epoch: 006/010 | Batch 300/469 | Cost: 0.3567
+Epoch: 006/010 | Batch 350/469 | Cost: 0.2408
+Epoch: 006/010 | Batch 400/469 | Cost: 0.2476
+Epoch: 006/010 | Batch 450/469 | Cost: 0.2142
+Epoch: 006/010 training accuracy: 93.12%
+Time elapsed: 3.62 min
+Epoch: 007/010 | Batch 000/469 | Cost: 0.2040
+Epoch: 007/010 | Batch 050/469 | Cost: 0.3319
+Epoch: 007/010 | Batch 100/469 | Cost: 0.2029
+Epoch: 007/010 | Batch 150/469 | Cost: 0.1949
+Epoch: 007/010 | Batch 200/469 | Cost: 0.2101
+Epoch: 007/010 | Batch 250/469 | Cost: 0.1551
+Epoch: 007/010 | Batch 300/469 | Cost: 0.1979
+Epoch: 007/010 | Batch 350/469 | Cost: 0.2705
+Epoch: 007/010 | Batch 400/469 | Cost: 0.2443
+Epoch: 007/010 | Batch 450/469 | Cost: 0.1530
+Epoch: 007/010 training accuracy: 93.35%
+Time elapsed: 4.26 min
+Epoch: 008/010 | Batch 000/469 | Cost: 0.3948
+Epoch: 008/010 | Batch 050/469 | Cost: 0.1336
+Epoch: 008/010 | Batch 100/469 | Cost: 0.1596
+Epoch: 008/010 | Batch 150/469 | Cost: 0.2221
+Epoch: 008/010 | Batch 200/469 | Cost: 0.1724
+Epoch: 008/010 | Batch 250/469 | Cost: 0.3008
+Epoch: 008/010 | Batch 300/469 | Cost: 0.2817
+Epoch: 008/010 | Batch 350/469 | Cost: 0.2871
+Epoch: 008/010 | Batch 400/469 | Cost: 0.3331
+Epoch: 008/010 | Batch 450/469 | Cost: 0.2359
+Epoch: 008/010 training accuracy: 93.30%
+Time elapsed: 4.87 min
+Epoch: 009/010 | Batch 000/469 | Cost: 0.2062
+Epoch: 009/010 | Batch 050/469 | Cost: 0.2617
+Epoch: 009/010 | Batch 100/469 | Cost: 0.2449
+Epoch: 009/010 | Batch 150/469 | Cost: 0.1923
+Epoch: 009/010 | Batch 200/469 | Cost: 0.2216
+Epoch: 009/010 | Batch 250/469 | Cost: 0.1700
+Epoch: 009/010 | Batch 300/469 | Cost: 0.2526
+Epoch: 009/010 | Batch 350/469 | Cost: 0.2116
+Epoch: 009/010 | Batch 400/469 | Cost: 0.2005
+Epoch: 009/010 | Batch 450/469 | Cost: 0.2433
+Epoch: 009/010 training accuracy: 93.67%
+Time elapsed: 5.48 min
+Epoch: 010/010 | Batch 000/469 | Cost: 0.1490
+Epoch: 010/010 | Batch 050/469 | Cost: 0.2465
+Epoch: 010/010 | Batch 100/469 | Cost: 0.2211
+Epoch: 010/010 | Batch 150/469 | Cost: 0.1444
+Epoch: 010/010 | Batch 200/469 | Cost: 0.1994
+Epoch: 010/010 | Batch 250/469 | Cost: 0.3062
+Epoch: 010/010 | Batch 300/469 | Cost: 0.2122
+Epoch: 010/010 | Batch 350/469 | Cost: 0.3120
+Epoch: 010/010 | Batch 400/469 | Cost: 0.2247
+Epoch: 010/010 | Batch 450/469 | Cost: 0.2415
+Epoch: 010/010 training accuracy: 93.78%
+Time elapsed: 6.10 min
+Total Training Time: 6.10 min
